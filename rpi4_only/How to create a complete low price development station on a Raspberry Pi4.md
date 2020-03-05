@@ -8,7 +8,7 @@ This tutorial explain how to do that... and more how to **create a complete deve
 * Offer the possibility of working or training for people living in areas where electricity is not easily accessible (the rpi coupled to a small screen can easily operate on battery, so thanks to alternative energies like solar. For the network, just pair it with a Smartphone
 * Provide the opportunity for people to train in development jobs at a lower cost. An RPI 4 model B with a mini screen running on USB 3.0 and some recycled accessories cost around 150 euros.
 * Possibility to develop application interfacing the GPIO of the RPI4 from root
-* finally, for fun!
+* finally, for fun and SILENCE !!!
 
 **What we gonna get after :**
 
