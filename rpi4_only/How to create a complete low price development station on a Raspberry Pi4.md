@@ -127,7 +127,7 @@ Create a new user for phpmyadmin
 
 todo :)° same as the standart non ARM versions
 
-## Install composer (approximative duration < 2 mn)
+## Install composer (approximative duration < 10 mn)
 
 Just for the example (it's better to reffer to the composer site beacuse the hash file is updated continually)
 here're the link for original version :
@@ -142,7 +142,7 @@ php -r "unlink('composer-setup.php');"
 mv composer.phar /usr/local/bin/composer
 ```
 
-## Install Nodejs, npm, yarn (approximative duration < 2 mn)
+## Install Nodejs, npm, yarn (approximative duration < 5 mn)
 
 You must install the LTS version for ARM8 if you use a RPI4 and ARM7 for RPI3
 
